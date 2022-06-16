@@ -1,32 +1,9 @@
 # Hello Page
 
-<img src="https://raw.githubusercontent.com/jlord/forkngo/gh-pages/badges/cobalt.png" width="200">
-
-![screenshot](https://user-images.githubusercontent.com/1305617/45956448-87fec380-bfe0-11e8-8b8c-1bbbee7552c6.png)
-
-A so very simple personal site.
-
-This is a [Fork-n-Go](http://jlord.github.io/forkngo) project, so fork to get started making your own.
-
-See the demo at [jlord.github.io/hello](http://jlord.github.io/hello).
-
-## Create your own
-
-
-| You'll Need:                                 | ☟                                                 |
-|:---------------------------------------------|:--------------------------------------------------|
-| [GitHub](http://www.github.com/join) account | Basic [HTML](http://learn.shayhowe.com/html-css/) |
-
-
-### First, fork this repository.
-
-Click the fork button in the upper right. Now you have a copy of this repository on your GitHub account!
-
 ### Rename your fork
 
-Once you've forked it, click on Settings and rename your fork, because probably `hello` is not what you want in your URL. Name your new repository: `username.github.io` (but make `username` your username, for instance, I'd use `jlord.github.io`). GitHub will host all website files on the `master` branch of a repo with that account name convention. Woo! More info on that at [pages.github.com](http://www.pages.github.com).
+I forked this!  Now editing ReadMe.  
 
-You can also give it any 'ol name and GitHub will host it using this pattern: `username.github.io/reponame`. Or you can keep it named `hello` and find it at: `username.github.io/hello`.
 
 ### Make yours live
 
